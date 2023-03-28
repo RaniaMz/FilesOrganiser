@@ -2,7 +2,7 @@
 
 ### Instructions
 
-To Run pthon script on reading folder contain files and then restructure the file you need to :
+To Run the script on reading folder contain files and then restructure the file you have to follow these steps :
 
 * To run code using terminal : 
 
