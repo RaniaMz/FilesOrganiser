@@ -37,6 +37,6 @@ if __name__ == '__main__':
             folders_names[name[0]] = True
             os.mkdir(directory + '/' + name[0])
 
-        shutil.move(os.path.basename(directory) + '/' + file, directory + '/' + name[0] + '/')
+        shutil.move(os.path.abspath(directory) + '/' + file, directory + '/' + name[0] + '/')
 
     print("--- End program time in seconds : %s ---" % (time.time() - start_time))
