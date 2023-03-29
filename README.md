@@ -7,7 +7,7 @@ To Run the script on reading folder contain files and then restructure the file 
 * To run code using terminal : 
 
 ```
-python3 FolderReader.py /Users/posrocket/PycharmProjects/FilesOrganiser/files
+python3 FolderReader.py ~/files
 
 OR :
 
